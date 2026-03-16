@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Najite Stephen <br><br>- 🔭 I’m an Actuarial Science Student<br>- 📚 I'm currently on a first class GPA<br>- ⚡ In my free time I like to learn about data</p>
+<p align="left">I'm Najite Stephen <br><br>- 🔭 I’m an Actuarial Science Student<br>- 📚 I'm currently on a good academic standing and preparing for SOA exams FM & P<br>- ⚡ In my free time I like to learn about data</p>
 
 ###
 
